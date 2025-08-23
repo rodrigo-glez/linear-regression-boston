@@ -1,4 +1,4 @@
-# Boston Housing Linear Regression Project
+# Boston Housing Linear Regression Practice
 
 This short project explores the Boston Housing dataset with the goal of applying simple and multiple linear regression models. It emphasizes strong linear relationships between variables and uses exploratory analysis to support modeling decisions.
 
