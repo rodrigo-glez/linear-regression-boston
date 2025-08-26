@@ -52,3 +52,9 @@ ptratio (pupil-teacher ratio),
 ### 6. Model Evaluation
 - Plotted Actual vs. Predicted values for visual comparison
 - Included a diagonal reference line to assess accuracy
+
+## Disclaimer
+
+This project was created as part of my personal learning journey. It’s a practice project, built from scratch on my own initiative. The goal is to experiment, try out ideas, and improve my skills.
+
+Because of that, it may not have a clear practical use case, and some parts might be rough around the edges or not follow best practices yet. I’m sharing it here openly as a way to document my progress and keep learning.
