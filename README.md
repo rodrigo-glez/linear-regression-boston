@@ -1,6 +1,6 @@
 # Boston Housing Linear Regression Practice
 
-This short project explores the Boston Housing dataset with the goal of applying simple and multiple linear regression models. It emphasizes strong linear relationships between variables and uses exploratory analysis to support modeling decisions.
+This short practice project explores the Boston Housing dataset with the goal of applying simple and multiple linear regression models. It emphasizes strong linear relationships between variables and uses exploratory analysis to support modeling decisions.
 
 ## Project Goals
 
@@ -18,9 +18,3 @@ This short project explores the Boston Housing dataset with the goal of applying
 ## Tools Used
 
 - 
-
-## Disclaimer
-
-This project was created as part of my personal learning journey. It’s a practice project, built from scratch on my own initiative. The goal is to experiment, try out ideas, and improve my skills.
-
-Because of that, it may not have a clear practical use case, and some parts might be rough around the edges or not follow best practices yet. I’m sharing it here openly as a way to document my progress and keep learning.
