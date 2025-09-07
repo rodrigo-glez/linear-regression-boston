@@ -1,4 +1,4 @@
-# Boston Housing Linear Regression Practice
+# Boston Housing Prices Analysis with Linear Regression
 
 This project applies linear regression to the Boston Housing dataset to study the relationships between housing prices and socioeconomic/environmental factors. The focus is on statistical inference: interpreting coefficients, understanding feature importance, and exploring how variables relate to median housing prices, rather than optimizing predictive performance (will do that in the future as I dive deeper into data science and machine learning, tackling analytics for now).
 
